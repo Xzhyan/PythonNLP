@@ -1,3 +1,1 @@
-# PythonAI
-
-> Aprendendo IA com python
+# Estudando NLP com python

@@ -21,3 +21,4 @@ class NLProcessing:
         tokens = tokenize(normalized)
 
         print(self.embedding.weights)
+
